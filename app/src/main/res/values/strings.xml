@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SplashScreenNavigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Home fragment</string>
+    <string name="fresh_food">FRESH FOOD</string>
+    <string name="fresh_food_des">อาหาร ทำสดใหม่ทุกวัน อร่อย สะอาด วัตถุดิบคุณภาพดี พร้อมให้คุณลิ้มลอง</string>
+
+    <string name="delivery_food">FAST DELIVERY</string>
+    <string name="delivery_food_des">อยากกินต้องได้กิน ส่งอาหารเร็ว ส่งอาหารแรง ส่งอาหารไว นึกว่าคนขับติดจรวจ</string>
+
+    <string name="payment_food">EASY FPAYMENT</string>
+    <string name="payment_food_des">จ่ายง่าย จ่ายไว รวดเร็ว และ ปลอดภัย เงินไม่พอเรามีให้ยืม (ผ่อน 3 งวด)</string>
+
+    <string name="next">Next</string>
+    <string name="finish">Finsh</string>
+</resources>
